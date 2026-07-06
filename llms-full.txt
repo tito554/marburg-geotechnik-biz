@@ -1,0 +1,49 @@
+# Geotechnik — Marburg
+
+> Geotechnical engineering services in Marburg, Deutschland.
+
+## Services
+- [Anker](https://marburg.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://marburg.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://marburg.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://marburg.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://marburg.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://marburg.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://marburg.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://marburg.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://marburg.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://marburg.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://marburg.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://marburg.geotechnik.biz/fundamente/)
+- [Geophysik](https://marburg.geotechnik.biz/geophysik/)
+- [Grundungen](https://marburg.geotechnik.biz/grundungen/)
+- [Hange](https://marburg.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://marburg.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Korngrossenanalyse](https://marburg.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://marburg.geotechnik.biz/labor/)
+- [Labor In Situ](https://marburg.geotechnik.biz/labor-in-situ/)
+- [Masw](https://marburg.geotechnik.biz/masw/)
+- [Pfahle](https://marburg.geotechnik.biz/pfahle/)
+- [Ruttelverdichtung](https://marburg.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://marburg.geotechnik.biz/sandkegel-dichte/)
+- [Schurfgruben](https://marburg.geotechnik.biz/schurfgruben/)
+- [Seismik](https://marburg.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://marburg.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://marburg.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://marburg.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://marburg.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://marburg.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://marburg.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://marburg.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://marburg.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://marburg.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://marburg.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://marburg.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://marburg.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://marburg.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Marburg, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
